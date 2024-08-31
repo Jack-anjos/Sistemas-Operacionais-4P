@@ -3,4 +3,5 @@ Repositório com as atividades de laboratório da disciplina de Sistemas Operaci
 
 **ALUNOS:**
 Jackson Barbosa dos Anjos - 10418478
+
 Luis Felipe Basacchi Darre - 10419477
